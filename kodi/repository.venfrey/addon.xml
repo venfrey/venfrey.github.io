@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.venfrey" name="[COLOR gold]My Collections Repository[/COLOR]" version="1.0" provider-name="Venfrey">
+<addon id="repository.venfrey" name="[COLOR gold]My Collections Repository[/COLOR]" version="1.0.1" provider-name="Venfrey">
   <extension point="xbmc.addon.repository" name="My Collections Repository">
-    <info compressed="false">https://raw.githubusercontent.com/venfrey/kodi/repository.venfrey/master/addons.xml</info>
-    <checksum>https://raw.githubusercontent.com/venfrey/kodi/repository.venfrey/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://raw.githubusercontent.com/venfrey/kodi/repository.venfrey/master/</datadir>
+    <info compressed="false">https://venfrey.github.io/kodi/addons.xml</info>
+    <checksum>https://venfrey.github.io/kodi/addons.xml.md5</checksum>
+    <datadir zip="true">https://venfrey.github.io/kodi/</datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">My Collection Addons for Kodi</summary>
