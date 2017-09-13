@@ -1,0 +1,5 @@
+1.0.0 - 2017-09-13
+ - Initial version
+ - Added Covenant video plugin
+ - Added Icdrama video plugin
+ - Added URLResolver module script
