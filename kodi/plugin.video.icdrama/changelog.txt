@@ -1,11 +1,5 @@
-1.6.0 - 2017-09-09
- - Fix: videobug.py unobscured
-
 1.5.0 - 2017-09-01
  - Add referrer icdrama.se.  Thanks to dumbo0001 for the fix!
-
-1.4.1 - 2017-08-31
- - Added "Animation".
 
 1.4.0 - 2017-07-27
  - rewrite of videobug resolver to adapt to site changes.

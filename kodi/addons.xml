@@ -33,7 +33,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.icdrama" version="1.6.0" name="Icdrama" provider-name="venfrey, aznhusband, General-Meow, dumbo0001, cthlo">
+<addon id="plugin.video.icdrama" version="1.6.1" name="Icdrama" provider-name="aznhusband, General-Meow, dumbo0001, cthlo">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.html5lib" version="0.999.0"/>
@@ -53,11 +53,11 @@
   </extension>
 </addon>
 
-<addon id="repository.venfrey" name="[COLOR gold]My Collections Repository[/COLOR]" version="1.0.1" provider-name="Venfrey">
+<addon id="repository.venfrey" name="[COLOR gold]My Collections Repository[/COLOR]" version="1.0.2" provider-name="Venfrey">
   <extension point="xbmc.addon.repository" name="My Collections Repository">
-    <info compressed="false">https://venfrey.github.io/kodi/addons.xml</info>
-    <checksum>https://venfrey.github.io/kodi/addons.xml.md5</checksum>
-    <datadir zip="true">https://venfrey.github.io/kodi/</datadir>
+    <info compressed="false">https://raw.githubusercontent.com/venfrey/kodi/repository.venfrey/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/venfrey/kodi/repository.venfrey/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/venfrey/kodi/repository.venfrey/master/</datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">My Collection Addons for Kodi</summary>
